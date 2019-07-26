@@ -21,7 +21,7 @@ return newFacts;
 }
 
 function iLoveTheBeatles(num) {
-  var array = [];
+  var phrases = [];
   do {
     phrases.push("I love the Beatles!")
     num++;
