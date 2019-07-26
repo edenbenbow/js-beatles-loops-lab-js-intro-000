@@ -10,7 +10,7 @@ function theBeatlesPlay(musicians, instruments) {
 
 }
 
-function johnLennonFacts(facts) {
+function johnLennonFacts() {
   const facts = [
     "He was the last Beatle to learn to drive",
     "He was never a vegetarian",
