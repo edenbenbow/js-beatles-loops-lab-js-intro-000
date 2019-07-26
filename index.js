@@ -14,7 +14,6 @@ function johnLennonFacts() {
   var facts = [
     "foo",
     "bar",
-  
   ];
   var newFacts = [];
   var i = 0
