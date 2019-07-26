@@ -1,9 +1,9 @@
 // add solution here
 function theBeatlesPlay(musicians, instruments) {
   var array = []
-  for (var i = 0; i < 25; i++) {
-    loopBody];
+  for (var i = 0; i < musicians.length; i++) {
+    array.push(`{musicians[i]} plays ${instruments[i]}`);
   }
-  console.log("John Lennon plays guitar")
+  return array;
 
 }
