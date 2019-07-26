@@ -1,8 +1,8 @@
 // add solution here
 function theBeatlesPlay(musicians, instruments) {
-  for ([initialization]; [condition]; [iteration]) {
+  for (let i = 0; i < 25; i++) {
     loopBody];
   }
-  return("John Lennon plays guitar")
+  console.log("John Lennon plays guitar")
 
 }
