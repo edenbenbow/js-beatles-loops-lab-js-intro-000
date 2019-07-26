@@ -2,11 +2,11 @@ var musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Star
 var instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"]
 
 function theBeatlesPlay(musicians, instruments) {
-  var phrases = [];
+  var array = [];
   for (var i = 0; i < musicians.length; i++) {
-    phrases.push(musicians[i] + "plays" + instruments[i]);
+    array.push(musicians[i] + "plays" + instruments[i]);
   }
-  return phrases;
+  return array;
 
 }
 
@@ -24,10 +24,10 @@ return newFacts;
 }
 
 function iLoveTheBeatles(num) {
-  var phrases = [];
+  var array = [];
   do {
-    phrases.push("I love the Beatles!")
+    array.push("I love the Beatles!")
     num++;
   } while (num < 15);
-  return phrases;
+  return array;
 }
